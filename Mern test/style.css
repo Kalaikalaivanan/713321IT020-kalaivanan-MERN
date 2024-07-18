@@ -1,0 +1,40 @@
+nav{
+    background-color:#eccd9f;
+    padding:50px;
+}
+.mycontainer6{
+    width:100%;
+    height:600px;
+    position: relative;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.xbZPDulSjfMMcXfplvwW3QHaDt&pid=Api&P=0&h=180");
+    background-size:cover;
+}
+.mycontainer1{
+    position:absolute;
+    top:110px;
+    justify-content: center;
+    
+background: rgba(172, 222, 232, 0.738);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.4px);
+-webkit-backdrop-filter: blur(1.4px);
+border: 1px solid rgba(255, 255, 255, 0.98);
+
+   
+    padding:100px 20px;
+    color: black;
+    left:10%;
+}
+.mycontainer2{
+    width:100%;
+    height:100%;
+}
+.mycontainer4{
+    background-image: url("https://assets.doxcdn.com/image/upload/q_auto:good,fl_sanitize/heroes/hero-home-hero-bottom.webp");
+    width:100%;
+    height: fit-content;
+}
+.mycontainer5{
+    width:50%;
+}

@@ -1,0 +1,11 @@
+.mycontainer1{
+    background-color: rgba(112, 159, 200, 0.778);
+    width:100%;
+    height:fit-content;
+}
+nav{
+    background-color: beige;
+}
+.content{
+    width:60%;
+}

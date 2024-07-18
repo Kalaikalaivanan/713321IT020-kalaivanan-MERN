@@ -1,0 +1,13 @@
+nav{
+    background-color:#eccd9f;
+    padding:50px;
+}
+.mycontainer1{
+    width:100%;
+    height:fit-content;
+}
+.container{
+    width:50%;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
